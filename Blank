@@ -1,0 +1,11 @@
+// For use between animations. No colors on the matrix will be lit.
+// Blank
+B00000000,  B00000000,  // Blank Frame 1
+B00000000,  B00000000,
+B00000000,  B00000000,
+B00000000,  B00000000,
+B00000000,  B00000000,
+B00000000,  B00000000,
+B00000000,  B00000000,
+B00000000,  B00000000,
+120, // Adjust duration (in seconds) here as needed. Max of 255
